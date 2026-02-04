@@ -1,3 +1,4 @@
+// Rota para aplicação terceirizada JumpTec
 import { useEffect } from 'react';
 
 const Simulator = () => {
