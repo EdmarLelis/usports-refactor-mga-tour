@@ -112,7 +112,7 @@ const TermsOfAgreement = () => {
           <Card bg="bg-black/20" border="border-1 border-brand-orange"> 
             <p className="text-lg font-semibold text-brand-orange"><strong>Usports</strong></p>
             <p>Site: <strong>usportsbsb.com</strong></p>
-            <p>Email: <strong>comercial@usports.br</strong></p>
+            <p>Email: <strong>comercial@usportsbr.com</strong></p>
             <p>WhatsApp: <strong>+55 (61) 3263-2401</strong></p>
           </Card>
         </Card>

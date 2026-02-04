@@ -61,7 +61,7 @@ export const Footer: React.FC = () => {
             </h4>
             <div className="text-gray-400 text-sm space-y-2">
               <p>Telefone: +55 61 3263-2401</p>
-              <p>comercial@usports.br</p>
+              <p>comercial@usportsbr.com</p>
               <p className="mt-4">
                 Vicente Pires, Brasília - DF, 72005-080 (EPTG KM 7.2 em frente
                 ao viaduto Israel Pinheiro)
