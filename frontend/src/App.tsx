@@ -6,6 +6,7 @@ import Fabrication from './pages/Fabrication';
 // import Clubs from './pages/Clubs';
 import Simulator from './pages/Simulator';
 import TermsOfAgreement from './pages/TermsOfAgreement';
+import ContactUs from './pages/ContactUs';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
               {/* <Route path="/clubes" element={<Clubs />} /> */}
               <Route path="/simulador" element={<Simulator />} />
               <Route path="/termo" element={<TermsOfAgreement />} />
+              <Route path="/contato" element={<ContactUs />} />
             </Routes>
           </div>
           <WhatsAppButton />

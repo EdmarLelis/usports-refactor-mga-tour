@@ -47,7 +47,9 @@ export const Footer: React.FC = () => {
                 Sobre nós
               </li>
               <li className="hover:text-brand-orange cursor-pointer transition-colors">
-                Contato
+                <a href="/contato">
+                  Contato
+                </a>
               </li>
               <li className="hover:text-brand-orange cursor-pointer transition-colors">
                 Política de Pré-Venda
