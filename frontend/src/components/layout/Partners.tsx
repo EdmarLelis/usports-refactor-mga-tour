@@ -16,7 +16,7 @@ const partners = [
 
 export const Partners: React.FC = () => {
   return (
-    <section className="bg-brand-gray pb-20 px-6">
+    <section id='clubs' className="bg-brand-gray pb-20 px-6">
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-wrap justify-center items-center gap-4 md:gap-6">
           {partners.map((partner) => (
