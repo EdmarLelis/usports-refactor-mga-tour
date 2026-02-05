@@ -74,7 +74,7 @@ export const Footer: React.FC = () => {
 
             <div className="flex gap-4 pt-4">
               <a
-                href="https://www.instagram.com/unipaperoficial/"
+                href="https://www.instagram.com/usportsbr/"
                 className="bg-brand-dark p-3 rounded-lg hover:bg-brand-orange transition-all"
                 target='blank'
               >
